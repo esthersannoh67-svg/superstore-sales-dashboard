@@ -4,7 +4,7 @@
 
 A small sales dashboard built in Google Sheets from the public "Superstore" sample dataset (orders from 2015 to 2018). I built it to practise pivot tables, charts and KPIs while learning data analytics at BeTechified.
 
-![Superstore Sales Dashboard](Superstore_Dashboard.png)
+![Superstore Sales Dashboard](Superstore_Dashboard.PNG)
 
 ## Questions I answered
 
@@ -50,11 +50,11 @@ A small sales dashboard built in Google Sheets from the public "Superstore" samp
 ## Files in this repository
 
 - `README.md`: this page
-- `Superstore_Dashboard.png`: a picture of the finished dashboard
+- `Superstore_Dashboard.PNG`: a picture of the finished dashboard
 - The Excel workbook: the cleaned data, the four pivot tables and the dashboard
 
 ## Author
 
 Esther Sannoh, BeTechified Data Analytics graduate
 
-LinkedIn: linkedin.com/in/esther-sannoh-data-analyst
+LinkedIn: [linkedin.com/in/esther-sannoh-data-analyst](https://www.linkedin.com/in/esther-sannoh-data-analyst)
